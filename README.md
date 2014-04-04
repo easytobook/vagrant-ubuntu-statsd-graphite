@@ -17,4 +17,5 @@ https://gist.github.com/nstielau/966835
 
 **Thanks to**
 * https://www.digitalocean.com/community/articles/installing-and-configuring-graphite-and-statsd-on-an-ubuntu-12-04-vps
+* https://github.com/MartinLogan/vagrant-statsd
 * https://github.com/Jimdo/vagrant-statsd-graphite-puppet
